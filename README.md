@@ -1,5 +1,5 @@
 # Summary
-An Front-End Focused Aesthetic Candy-based instagram photo gallery website
+A Front-End Focused Aesthetic Candy-based instagram photo gallery website
 
 # Technologies
 - HTML
